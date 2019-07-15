@@ -1,0 +1,35 @@
+java-algs4 PercolationStats 50 100
+time elapsed            = 0.045
+
+java-algs4 PercolationStats 100 100
+time elapsed            = 0.108
+
+java-algs4 PercolationStats 200 100
+time elapsed            = 0.264
+
+java-algs4 PercolationStats 400 100
+time elapsed            = 0.961
+
+java-algs4 PercolationStats 800 100
+time elapsed            = 4.533
+
+java-algs4 PercolationStats 1600 100
+time elapsed            = 31.932
+
+
+
+java-algs4 PercolationStats 200 200
+time elapsed            = 0.489
+
+java-algs4 PercolationStats 200 400
+time elapsed            = 0.898
+
+java-algs4 PercolationStats 200 800
+time elapsed            = 1.649
+
+java-algs4 PercolationStats 200 1600
+time elapsed            = 3.365
+
+java-algs4 PercolationStats 200 3200
+time elapsed            = 6.162
+
